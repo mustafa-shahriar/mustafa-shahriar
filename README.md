@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mustafa-shahriar
-- 👀 I’m interested in java
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on web development
+- 📫 Reach me on [facebook](https://www.facebook.com/profile.php?id=100078130358384)
 
 <!---
 mustafa-shahriar/mustafa-shahriar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
