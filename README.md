@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mustafa-shahriar
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning nestjs and mongobd
 - 💞️ I’m looking to collaborate on web development
 - 📫 Reach me on [facebook](https://www.facebook.com/profile.php?id=100078130358384)
 
