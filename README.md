@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mustafa-shahriar
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on web development
+- 🌱 I’m currently learning Django and React
 - 📫 Reach me on [facebook](https://www.facebook.com/profile.php?id=100078130358384)
 
 <!---
